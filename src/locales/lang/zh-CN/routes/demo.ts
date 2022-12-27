@@ -180,6 +180,7 @@ export default {
     menu: '菜单管理',
     test: '测试功能',
     role: '角色管理',
+    zlib: 'zlib',
   },
   table: {
     table: 'Table',
